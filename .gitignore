@@ -1,0 +1,23 @@
+# Node.js
+# Dependency directories
+node_modules/
+
+# parcel cache files
+.cache
+
+# Environment files
+.env
+
+# npm debug log
+npm-debug.log*
+
+# Build directories
+# These are directories created during the build process and should not be tracked.
+dist/
+build/
+
+# VS Code settings and workspace storage
+.vscode/
+
+# WebStorm settings
+.idea/
